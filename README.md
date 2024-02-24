@@ -66,7 +66,7 @@
   <img align="center" alt="Alaniz-Pnpm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg">
   <img align="center" alt="Alaniz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div><br/>
-## Tecnologías en proceso de aprendizaje!
+## Tecnologías en proceso de aprendizaje!<br>
 
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
