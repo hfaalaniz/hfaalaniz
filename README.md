@@ -3,21 +3,32 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E47F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=La+vida+es+simple..." alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=Pero+nosotros+la+complicamos!" alt="Typing SVG" /></a>
-
-
-- 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
-- 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
-- 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
-
 <details> 
-  <summary><h3>- 📫 🌐 Quien soy</h3></summary>
+  <summary><h2>- 👋 Quien soy</h2></summary>
      <div>
       - 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
      </div>
 </details>
-
 <details> 
-  <summary><h3>- 📫 🌐 Conecta conmigo en</h3></summary>
+  <summary><h2>- 👀 Quien soy</h2></summary>
+     <div>
+      - 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
+     </div>
+</details>
+<details> 
+  <summary><h2>- 🌱 Quien soy</h2></summary>
+     <div>
+      - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
+     </div>
+</details>
+<details> 
+  <summary><h2>- 💞️ Quien soy</h2></summary>
+     <div>
+      - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
+     </div>
+</details>
+<details> 
+  <summary><h2>- 📫 🌐 Conecta conmigo en</h2></summary>
      <div>
           <a href = "mailto:hfaalaniz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/mhfaalaniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
