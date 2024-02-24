@@ -67,6 +67,7 @@
   <img align="center" alt="Alaniz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div><br/>
 ## Tecnologías en proceso de aprendizaje!<br>
+
 <div style="display: inline_block"><br>
 </div><br/>
 
