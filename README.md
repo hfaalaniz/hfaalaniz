@@ -48,3 +48,18 @@
   <a href="https://www.youtube.com/channel/UCyHkSvPm2A4P5eqrzVIkRHQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/SJDbf9wJmv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<!-- snake -->
+<picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake-dark.svg">
+       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
+       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
+</picture>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <p><a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a>
+  <a href="https://github.com/mateusadada/mateusadada/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/mateusadada?color=2b9348" alt="License Badge"/></a></p>
+  <p>Desarrollado ❤️ en ARGENTINA 🇧🇷</p>
+</div>
