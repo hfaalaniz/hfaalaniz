@@ -16,7 +16,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfaalaniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfaalaniz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+<!-- snake -->
+<picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake-dark.svg">
+       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
+       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
+</picture>
+</details>  
 ## Tecnologías que uso en mi día a día!
 
 <div style="display: inline_block"><br>
@@ -48,14 +54,6 @@
   <a href="https://www.youtube.com/channel/UCyHkSvPm2A4P5eqrzVIkRHQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/SJDbf9wJmv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<!-- snake -->
-<picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake-dark.svg">
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
-       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
-</picture>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
