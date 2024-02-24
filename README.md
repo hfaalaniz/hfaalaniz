@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Despiertate, levantate y anda!!! </h1> <hr>
+Despiértate, levantate y anda!!! </h1> <hr>
 
 - 👋 Hola, mi nombre es Fabian y trabajo como desarrollador C# en Vibramek.
 - 👀 Mi principal aficción es el desarrollo de software, el emprendimiento y los proyectos.
