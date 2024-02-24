@@ -23,6 +23,7 @@
        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
 </picture>
 </details>  
+
 ## Tecnologías que uso en mi día a día!
 
 <div style="display: inline_block"><br>
