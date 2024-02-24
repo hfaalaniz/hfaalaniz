@@ -68,16 +68,12 @@
 </div><br/>
 ## Tecnologías en proceso de aprendizaje!<br>
 
-<div style="display: inline_block"><br>
-</div><br/>
-
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
 </div>
    <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif">
 </div>
 ## Estas son mis redes sociales
-  
 <div> 
   <a href="https://www.instagram.com/hfaalaniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wXVJ4Bvqfg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
