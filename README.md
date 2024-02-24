@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=Pero+nosotros+la+complicamos!" alt="Typing SVG" /></a>
 <details> 
-  <summary><h5>- 👋 Quien soy</h5></summary>
+  <summary><h4>- 👋 Quien soy</h4></summary>
      <div>
       👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
      </div>
