@@ -59,7 +59,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <p><a href="https://github.com/mateusadada"><img src="https://komarev.com/ghpvc/?username=mateusadada&color=447ff7&label=views" alt="Views count Badge"/></a>
-  <a href="https://github.com/mateusadada/mateusadada/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/mateusadada?color=2b9348" alt="License Badge"/></a></p>
+  <p><a href="https://github.com/hfaalaniz"><img src="https://komarev.com/ghpvc/?username=hfaalaniz&color=447ff7&label=views" alt="Insignia de recuento de vistas"/></a>
+  <a href="https://github.com/hfaalaniz/hfaalaniz/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/mateusadada?color=2b9348" alt="Licencia Insignia"/></a></p>
   <p>Desarrollado ❤️ en ARGENTINA 🇧🇷</p>
 </div>
