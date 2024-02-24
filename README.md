@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-Despiértate, levantate y anda!!! </h1> <hr>
+La vida es simple, pero insistimos en hacerla complicada! </h1> <hr>
 
-- 👋 Hola, mi nombre es Fabian y trabajo como desarrollador C# en Vibramek.
-- 👀 Mi principal aficción es el desarrollo de software, el emprendimiento y los proyectos.
+- 👋 Hola, mi nombre es Fabian y soy desarrollador C# y C para microcontroladores, aplicaciones de escritorio y web.
+- 👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos y variadores de frecuencia.
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
 - 📫 Contactame conmigo en hfaalaniz@gmail.com o al +54-351-284-8802.
