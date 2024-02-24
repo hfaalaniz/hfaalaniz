@@ -41,7 +41,8 @@
  <a href="https://discord.gg/wXVJ4Bvqfg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/hfalaniz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "mailto:hfaalaniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href="https://www.youtube.com/channel/UCyHkSvPm2A4P5eqrzVIkRHQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- 
+     badge&logo=youtube&logoColor=white" target="_blank"></a>
 </a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
