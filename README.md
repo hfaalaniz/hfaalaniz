@@ -31,7 +31,9 @@
   <img align="center" alt="Alaniz-Pnpm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg">
   <img align="center" alt="Alaniz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
 </div><br/>
-   
+</div>
+   <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif">
+</div>
 ## Estas son mis redes sociales
   
 <div> 
