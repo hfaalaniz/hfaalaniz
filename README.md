@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=La+vida+es+simple..." alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=Y+nosotros+la+complicamos!" alt="Typing SVG" /></a>
 
 - 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
