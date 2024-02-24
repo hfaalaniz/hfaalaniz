@@ -88,4 +88,7 @@
   <p><a href="https://github.com/hfaalaniz"><img src="https://komarev.com/ghpvc/?username=hfaalaniz&color=447ff7&label=vistas" alt="Insignia de recuento de vistas"/></a>
   <a href="https://github.com/hfaalaniz/hfaalaniz/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hfaalaniz/hfaalaniz?color=2b9348" alt="Licencia Insignia"/></a></p>
   <p>Desarrollado ❤️ en ARGENTINA </p>
+  
+  <p>https://img.shields.io/badge/any_text-you_like-blue </p>
+  
 </div>
