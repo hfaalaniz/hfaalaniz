@@ -68,10 +68,10 @@
 </div><br/>
 ## Tecnologías en proceso de aprendizaje!<br>
 <div style="display: inline_block"><br>
-  
+</div><br/>
+
 ![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
-</div><br/>
 </div>
    <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif">
 </div>
