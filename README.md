@@ -90,4 +90,6 @@
   <p>Desarrollado ❤️ en ARGENTINA </p>
 </div>
 
- https://img.shields.io/github/commit-activity/m/hfaalaniz/hfaalaniz
+ [https://img.shields.io/github/commit-activity/m/hfaalaniz/hfaalaniz](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=bitcoin&logoColor=Red&label=Anule&color=green&cacheSeconds=5
+)https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=bitcoin&logoColor=Red&label=Anule&color=green&cacheSeconds=5
+
