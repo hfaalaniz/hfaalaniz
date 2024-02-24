@@ -9,7 +9,7 @@
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
 <details> 
-  <summary><h3>- 📫🌐 Conecta conmigo en</h3></summary>
+  <summary><h3>- 📫 🌐 Conecta conmigo en</h3></summary>
      <div>
           <a href = "mailto:hfaalaniz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/mhfaalaniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
