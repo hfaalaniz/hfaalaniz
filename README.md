@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-La vida es simple, pero insistimos en hacerla complicada! </h1> <hr>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hola+Mundo!) <br/>
+ </h1> <hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=La+vida+es+simple%2C+pero+insistimos+en+hacerla+complicada!)](https://git.io/typing-svg) <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=HELLO+WORLD+-+INCODE;Reverse+%26%26+Kernel+Developer)](https://git.io/typing-svg)
 
