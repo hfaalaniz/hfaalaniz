@@ -10,19 +10,19 @@
      </div>
 </details>
 <details> 
-  <summary><h2>- 👀 Quien soy</h2></summary>
+  <summary><h2>- 👀 Objetivo principal</h2></summary>
      <div>
       - 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
      </div>
 </details>
 <details> 
-  <summary><h2>- 🌱 Quien soy</h2></summary>
+  <summary><h2>- 🌱 Que estoy aprendiendo</h2></summary>
      <div>
       - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
      </div>
 </details>
 <details> 
-  <summary><h2>- 💞️ Quien soy</h2></summary>
+  <summary><h2>- 💞️ Cuales son mis intereses</h2></summary>
      <div>
       - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
      </div>
