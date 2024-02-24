@@ -3,7 +3,7 @@ Despiértate, levantate y anda!!! </h1> <hr>
 
 - 👋 Hola, mi nombre es Fabian y trabajo como desarrollador C# en Vibramek.
 - 👀 Mi principal aficción es el desarrollo de software, el emprendimiento y los proyectos.
-- 🌱 Actualmente estoy aprendiendo TIA Portal, C#, Python, el pensamiento de diseño y emprendimiento.
+- 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
 - 📫 Contactame conmigo en hfaalaniz@gmail.com o al +54-351-284-8802.
 <div align="center">
