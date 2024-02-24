@@ -6,7 +6,7 @@
 <details> 
   <summary><h2>- 👋 Quien soy</h2></summary>
      <div>
-      👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
+                 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
      </div>
 </details>
 <details> 
