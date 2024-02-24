@@ -8,7 +8,15 @@
 - 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
-- 📫 Contáctate conmigo en hfaalaniz@gmail.com o al +54-351-284-8802.
+<details> 
+  <summary><h3>- 📫🌐 Conecta conmigo en</h3></summary>
+     <div>
+          <a href = "mailto:hfaalaniz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/mhfaalaniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+          <a href="https://instagram.com/fabianelctro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     </div>
+</details>
+
 <div align="center">
   <a href="https://github.com/hfaalaniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfaalaniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
