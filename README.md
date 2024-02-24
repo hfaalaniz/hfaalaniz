@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
  </h1> <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=La+vida+es+simple%2C+pero+insistimos+en+hacerla+complicada!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=La+vida+es+simple%2C+pero+insistimos+en+hacerla+complicada!" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=HELLO+WORLD+-+INCODE;Reverse+%26%26+Kernel+Developer)](https://git.io/typing-svg)
 
