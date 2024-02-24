@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 La vida es simple, pero insistimos en hacerla complicada! </h1> <hr>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!) <br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=HELLO+WORLD+-+INCODE;Reverse+%26%26+Kernel+Developer)](https://git.io/typing-svg)
+
 - 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
 - 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
