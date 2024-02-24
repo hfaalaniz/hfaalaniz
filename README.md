@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 La vida es simple, pero insistimos en hacerla complicada! </h1> <hr>
 
-- 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores para aplicaciones web y de escritorio.
+- 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
 - 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
