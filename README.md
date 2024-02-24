@@ -1,18 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 La vida es simple, pero insistimos en hacerla complicada! </h1> <hr>
 
-- 👋 Hola, mi nombre es Fabian y soy desarrollador C# y C para microcontroladores, aplicaciones de escritorio y web.
-- 👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos y variadores de frecuencia.
+- 👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores para aplicaciones web y de escritorio.
+- 👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
 - 🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
 - 💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
-- 📫 Contactame conmigo en hfaalaniz@gmail.com o al +54-351-284-8802.
+- 📫 Contáctate conmigo en hfaalaniz@gmail.com o al +54-351-284-8802.
 <div align="center">
   <a href="https://github.com/hfaalaniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfaalaniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfaalaniz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-## Tecnologias que uso en mi día a día!
+## Tecnologías que uso en mi día a día!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alaniz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
