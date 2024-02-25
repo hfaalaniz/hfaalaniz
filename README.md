@@ -65,8 +65,8 @@
   <img align="center" alt="Alaniz-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Alaniz-Pnpm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg">
   <img align="center" alt="Alaniz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
-  <a href="https://stackoverflow.com/users/hfaalaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nicesapien" height="30" width="40" /></a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img 
+  <a href="https://stackoverflow.com/users/hfaalaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hfaalaniz" height="30" width="40" /></a>
+  
 </div><br/>
 ## Tecnologías en proceso de aprendizaje!<br>
 
