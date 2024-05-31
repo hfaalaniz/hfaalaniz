@@ -6,13 +6,13 @@
 <details> 
   <summary><h3>- 👋 Quien soy</h3></summary>
      <div>
-      👋 Hola, mi nombre es Fabian, soy desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control, web y de escritorio.
+      👋 Hola, mi nombre es Fabian, inicialmente soy un electricista-electrónico que decantó en ser desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control (eléctrico-electrónico), web y de escritorio.
      </div>
 </details>
 <details> 
   <summary><h3>- 👀 Objetivo principal</h3></summary>
      <div>
-      👀 Mi principal aficción es el desarrollo de software y electrónica, orientado al control de automatismos y variadores de frecuencia.
+      👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos y variadores de frecuencia, electricidad y electrónica.
      </div>
 </details>
 <details> 
@@ -28,7 +28,7 @@
      </div>
 </details>
 <details> 
-  <summary><h3>- 📫 🌐 Conecta conmigo en</h3></summary>
+  <summary><h3>- 📫 🌐 Contacta conmigo en</h3></summary>
      <div>
           <a href = "mailto:hfaalaniz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/hfaalaniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
