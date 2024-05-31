@@ -6,13 +6,13 @@
 <details> 
   <summary><h3>- 👋 Quien soy</h3></summary>
      <div>
-      👋 Hola, mi nombre es Fabian, inicialmente soy un electricista-electrónico que decantó en ser desarrollador C# y C para microcontroladores, me especializo en aplicaciones de control (eléctrico-electrónico), web y de escritorio.
+      👋 Hola, mi nombre es Fabian, inicialmente soy un electricista-electrónico que decantó en ser desarrollador C# y C para microcontroladores, desarrollo aplicaciones de control (eléctrico-electrónico).
      </div>
 </details>
 <details> 
   <summary><h3>- 👀 Objetivo principal</h3></summary>
      <div>
-      👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos y variadores de frecuencia, electricidad y electrónica.
+      👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos, variadores de frecuencia, electricidad y electrónica.
      </div>
 </details>
 <details> 
