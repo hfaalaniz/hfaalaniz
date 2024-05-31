@@ -12,7 +12,7 @@
 <details> 
   <summary><h3>- 👀 Objetivo principal</h3></summary>
      <div>
-      👀 Mi principal aficción es el desarrollo de software, orientado al control de automatismos, variadores de frecuencia, electricidad y electrónica.
+      👀 Mi principal aficción es el desarrollo de aplicaciones orientado al control de automatismos, variadores de frecuencia, electricidad y electrónica.
      </div>
 </details>
 <details> 
@@ -24,7 +24,7 @@
 <details> 
   <summary><h3>- 💞️ Cuales son mis intereses</h3></summary>
      <div>
-      💞️ Me interesa colaborar en tipos de proyectos relacionados con automatización y control.
+      💞️ Me interesa colaborar en proyectos de automatización y control.
      </div>
 </details>
 <details> 
