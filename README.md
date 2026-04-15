@@ -1,84 +1,94 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+# Fabián Alaniz · `hfaalaniz`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E47F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=La+vida+es+simple..." alt="Typing SVG" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&center=FALSO&vCenter=FALSO&repeat=verdadero&random=verdadero&width=435&lines=Pero+nosotros+la+complicamos!" alt="Typing SVG" /></a>
-<details> 
-  <summary><h3>- 👋 Quien soy</h3></summary>
-     <div>
-      👋 Hola, mi nombre es Fabian, inicialmente soy un electricista-electrónico que decantó en ser desarrollador C# y C para microcontroladores, desarrollo aplicaciones de control (eléctrico-electrónico).
-     </div>
-</details>
-<details> 
-  <summary><h3>- 👀 Objetivo principal</h3></summary>
-     <div>
-      👀 Mi principal aficción es el desarrollo de aplicaciones orientado al control de automatismos, variadores de frecuencia, electricidad y electrónica.
-     </div>
-</details>
-<details> 
-  <summary><h3>- 🌱 Que estoy aprendiendo</h3></summary>
-     <div>
-      🌱 Actualmente estoy aprendiendo TIA Portal, Javascript, Python y leyendo todo sobre IA e industria 4.0.
-     </div>
-</details>
-<details> 
-  <summary><h3>- 💞️ Cuales son mis intereses</h3></summary>
-     <div>
-      💞️ Me interesa colaborar en proyectos de automatización y control.
-     </div>
-</details>
-<details> 
-  <summary><h3>- 📫 🌐 Contacta conmigo en</h3></summary>
-     <div>
-          <a href = "mailto:hfaalaniz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/hfaalaniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-          <a href="https://instagram.com/fabianelctro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     </div>
-</details>
+> Desarrollador de software · Electrónico · Automatización industrial
 
-<div align="center">
-  <a href="https://github.com/hfaalaniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfaalaniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfaalaniz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<!-- snake -->
-<picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake-dark.svg">
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
-       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusadada/mateusadada/snake/github-contribution-grid-snake.svg">
-</picture>
-</details>  
+Construyo sistemas completos: desde firmware en microcontroladores hasta ERP con facturación, pasando por automatización SCADA, aplicaciones de escritorio en C# y herramientas web. Me muevo cómodo entre el hardware y el software.
 
-## Tecnologías que uso en mi día a día!
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alaniz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Alaniz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Alaniz-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Alaniz-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="Alaniz-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Alaniz-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <a href="https://stackoverflow.com/users/hfaalaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hfaalaniz" height="30" width="40" /></a>
-  
-</div><br/>
-## Tecnologías en proceso de aprendizaje!<br>
+## 🛠️ Stack & Tecnologías
 
-![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
-![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
-</div>
-   <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif">
-</div>
-## Estas son mis redes sociales
-<div> 
-  <a href="https://www.instagram.com/hfaalaniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/hfalaniz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = "mailto:hfaalaniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</a>  
-  <a href="https://www.youtube.com/channel/UCzBiHhdgLuvJf3V6v-0nErg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://linkedin.com/hfaalaniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**Lenguajes**
+`C#` · `Python` · `JavaScript` · `HTML/CSS` · `C/C++`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Backend & DB**
+`ASP.NET Core` · `Node.js` · `PostgreSQL` · `REST APIs`
+
+**Desktop & Frontend**
+`Windows Forms` · `React` · `Vue`
+
+**Hardware & Industrial**
+`ESP32` · `Flipper Zero` · `nRF24` · `TIA Portal (Siemens PLC)` · `SCADA`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🏭 StockFlow — ERP completo
+Sistema de gestión de stock, ventas, sucursales y facturación por email. Arquitectura modular con backend, frontend, POS client y tienda online.
+
+| Repo | Descripción |
+|------|-------------|
+| [StockFlowBackend](https://github.com/hfaalaniz/StockFlowBackend) | Servidor principal del sistema |
+| [StockFlowFrontend](https://github.com/hfaalaniz/StockFlowFrontend) | Interfaz web del ERP |
+| [StockFlow_Pos-Client](https://github.com/hfaalaniz/StockFlow_Pos-Client) | Sistema POS punto de venta |
+| [StockFlowTienda](https://github.com/hfaalaniz/StockFlowTienda) | Tienda online integrada |
+| [StockFlowWeb](https://github.com/hfaalaniz/StockFlowWeb) | Sitio institucional del producto |
+
+---
+
+### ⚡ Electrónica & Hardware
+
+| Repo | Descripción |
+|------|-------------|
+| [WSL_ESP32](https://github.com/hfaalaniz/WSL_ESP32) | Editor y codificador de firmware WSL para funciones SCADA en ESP32 |
+| [SuiteElectricaElectronica](https://github.com/hfaalaniz/SuiteElectricaElectronica) | Cálculos de inversores, transformadores, fuentes PWM Buck y editor de esquemas |
+| [CalcuTrafo](https://github.com/hfaalaniz/CalcuTrafo) | Calculadora profesional de transformadores de potencia |
+| [ControlCintasPLC](https://github.com/hfaalaniz/ControlCintasPLC) | Control UI en C# para 3 cintas transportadoras con TIA Portal |
+| [FZ_nRF24_jammer](https://github.com/hfaalaniz/FZ_nRF24_jammer) | Jammer Flipper Zero + nRF24 (BT, BLE, Wi-Fi, Zigbee, drones) — uso educativo |
+| [jammer_v2](https://github.com/hfaalaniz/jammer_v2) | Sistema inhibidor de señal amplio rango — uso educativo |
+
+---
+
+### 🖥️ Aplicaciones de escritorio & utilidades
+
+| Repo | Descripción |
+|------|-------------|
+| [HFA-POS](https://github.com/hfaalaniz/HFA-POS) | Sistema POS moderno en C# + Windows Forms |
+| [HFA-ICO](https://github.com/hfaalaniz/HFA-ICO) | Conversor de imágenes a iconos, por lotes y con editor |
+| [servidorweb](https://github.com/hfaalaniz/servidorweb) | Servidor web estático portable en C# / ASP.NET Core |
+| [HFASpeedTest](https://github.com/hfaalaniz/HFASpeedTest) | Medidor realista de velocidad de conexión a internet |
+
+---
+
+### 🌐 Sistemas de gestión & web
+
+| Repo | Descripción |
+|------|-------------|
+| [AdminISP](https://github.com/hfaalaniz/AdminISP) | Control administrativo de clientes, socios y usuarios para ISP |
+| [PlanDeTrabajo](https://github.com/hfaalaniz/PlanDeTrabajo) | Generación de planes de trabajo con timeline |
+| [Demo-Boxes](https://github.com/hfaalaniz/Demo-Boxes) | Componentes reutilizables para mensajes e inputs modales |
+| [mi-framework](https://github.com/hfaalaniz/mi-framework) | Framework personal |
+| [herrero](https://github.com/hfaalaniz/herrero) | Sitio web para herrería artesanal |
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hfaalaniz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfaalaniz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+---
+
+## 📬 Contacto
+
+¿Tenés un proyecto o querés colaborar?
+
+[![GitHub](https://img.shields.io/badge/GitHub-hfaalaniz-181717?style=flat&logo=github)](https://github.com/hfaalaniz)
+
+---
+
+<sub>Villa Dolores, Córdoba, Argentina 🇦🇷</sub>
 <div align="center">
   <p><a href="https://github.com/hfaalaniz"><img src="https://komarev.com/ghpvc/?username=hfaalaniz&color=447ff7&label=vistas" alt="Insignia de recuento de vistas"/></a>
   <a href="https://github.com/hfaalaniz/hfaalaniz/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hfaalaniz/hfaalaniz?color=2b9348" alt="Licencia Insignia"/></a></p>
