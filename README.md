@@ -88,7 +88,7 @@ Sistema de gestión de stock, ventas, sucursales y facturación por email. Arqui
 
 ---
 
-<sub>Villa Dolores, Córdoba, Argentina 🇦🇷</sub>
+<sub>Villa Santa Cruz del Lago, Córdoba, Argentina 🇦🇷</sub>
 <div align="center">
   <p><a href="https://github.com/hfaalaniz"><img src="https://komarev.com/ghpvc/?username=hfaalaniz&color=447ff7&label=vistas" alt="Insignia de recuento de vistas"/></a>
   <a href="https://github.com/hfaalaniz/hfaalaniz/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hfaalaniz/hfaalaniz?color=2b9348" alt="Licencia Insignia"/></a></p>
